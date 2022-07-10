@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-10T11:30:07 ART" name="Default suite" finished-at="2022-07-10T11:30:26 ART" duration-ms="18894">
+    <groups>
+    </groups>
+    <test started-at="2022-07-10T11:30:07 ART" name="Default test" finished-at="2022-07-10T11:30:26 ART" duration-ms="18894">
+      <class name="ToolsQA">
+        <test-method is-config="true" signature="launchBrowser()[pri:0, instance:ToolsQA@57af006c]" started-at="2022-07-10T11:30:07 ART" name="launchBrowser" finished-at="2022-07-10T11:30:09 ART" duration-ms="1285" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method signature="loadPage()[pri:1, instance:ToolsQA@57af006c]" started-at="2022-07-10T11:30:09 ART" name="loadPage" finished-at="2022-07-10T11:30:21 ART" duration-ms="11851" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loadPage -->
+        <test-method signature="newUser()[pri:2, instance:ToolsQA@57af006c]" started-at="2022-07-10T11:30:21 ART" name="newUser" finished-at="2022-07-10T11:30:21 ART" duration-ms="885" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- newUser -->
+        <test-method signature="backToLogin()[pri:3, instance:ToolsQA@57af006c]" started-at="2022-07-10T11:30:21 ART" name="backToLogin" finished-at="2022-07-10T11:30:22 ART" duration-ms="83" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backToLogin -->
+        <test-method signature="login()[pri:4, instance:ToolsQA@57af006c]" started-at="2022-07-10T11:30:22 ART" name="login" finished-at="2022-07-10T11:30:22 ART" duration-ms="320" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="logout()[pri:5, instance:ToolsQA@57af006c]" started-at="2022-07-10T11:30:22 ART" name="logout" finished-at="2022-07-10T11:30:23 ART" duration-ms="1118" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method signature="alerts()[pri:6, instance:ToolsQA@57af006c]" started-at="2022-07-10T11:30:23 ART" name="alerts" finished-at="2022-07-10T11:30:26 ART" duration-ms="3302" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- alerts -->
+      </class> <!-- ToolsQA -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
